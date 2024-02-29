@@ -1,5 +1,5 @@
 # iLearn
-# Online Education Website - Coding Courses Repository
+# Online Education Website
 
 Welcome to our GitHub repository for the Online Education Website's coding courses! This repository contains all the necessary materials and resources for creating and managing coding courses offered on our platform.
 
