@@ -20,7 +20,7 @@ This repository serves as a centralized location for organizing, developing, and
 To get started with this repository, follow these steps:
 
 1. Clone this repository to your local machine using 'https://github.com/anjali-2201/iLearn.git' .
-2. Explore the existing course materials, including lesson plans, code examples, and supplementary resources.
+2. Explore the existing course materials through interactive tutorials.
 3. Set up your development environment according to the requirements outlined in each course's README file.
 4. Begin contributing by either creating new courses, improving existing ones, or fixing issues.
 
