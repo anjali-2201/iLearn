@@ -42,12 +42,4 @@ We welcome contributions from the community to help improve and expand our codin
 - **Reporting Issues**: Identify and report any issues, bugs, or suggestions for improvement using the GitHub issue tracker.
 - **Submitting Pull Requests**: Implement fixes, updates, or new features by submitting pull requests following our contribution guidelines.
 
-Before contributing, please review our [Contribution Guidelines](CONTRIBUTING.md) for detailed instructions on how to contribute effectively and maintain consistency across courses.
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE), which allows for unrestricted use, modification, and distribution of the course materials. By contributing to this repository, you agree to license your contributions under the same license.
-
----
-
 Thank you for your interest in our coding courses! If you have any questions, suggestions, or feedback, please don't hesitate to reach out to us. Happy coding!
